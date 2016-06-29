@@ -1,0 +1,16 @@
+body{
+	width: 500px;
+	margin: auto;
+	}
+h1{
+	color: red;
+}
+blockquote{
+	border:1px solid;
+	border-color: black;
+	color:blue;
+	text-align: center;
+	font-size: 20;
+	border-width: 5px;
+
+}
